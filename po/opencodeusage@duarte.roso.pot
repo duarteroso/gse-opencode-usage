@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Duarte Roso
+# This file is distributed under the same license as the opencode-usage package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: opencode-usage\n"
+"Report-Msgid-Bugs-To: duarteroso@mpg.io\n"
+"POT-Creation-Date: 2026-09-24 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: extension.js:62
+msgid "Last 5 hours"
+msgstr ""
+
+#: extension.js:63
+msgid "This week"
+msgstr ""
+
+#: extension.js:64
+msgid "This month"
+msgstr ""
+
+#: extension.js:71
+msgid "1 minute"
+msgstr ""
+
+#: extension.js:72
+msgid "2 minutes"
+msgstr ""
+
+#: extension.js:73
+msgid "5 minutes"
+msgstr ""
+
+#: extension.js:74
+msgid "10 minutes"
+msgstr ""
+
+#: extension.js:75
+msgid "15 minutes"
+msgstr ""
+
+#: extension.js:130
+msgid "OpenCode Go Usage"
+msgstr ""
+
+#: extension.js:152
+msgid "Loading…"
+msgstr ""
+
+#: extension.js:156
+msgid "Refresh Now"
+msgstr ""
+
+#: extension.js:163
+msgid "Refresh Interval"
+msgstr ""
+
+#: extension.js:173
+msgid "Open OpenCode Console"
+msgstr ""
+
+#: extension.js:198
+msgid "Resets in"
+msgstr ""
+
+#: extension.js:243
+msgid "Could not read usage"
+msgstr ""
+
+#: extension.js:257
+#, javascript-format
+msgid "%s: unavailable"
+msgstr ""
+
+#: extension.js:265
+#, javascript-format
+msgid "%s: %d%% used"
+msgstr ""

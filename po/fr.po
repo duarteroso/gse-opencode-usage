@@ -1,0 +1,88 @@
+# French translations for opencode-usage package.
+# Copyright (C) 2026 Duarte Roso
+# This file is distributed under the same license as the opencode-usage package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: opencode-usage\n"
+"Report-Msgid-Bugs-To: duarteroso@mpg.io\n"
+"POT-Creation-Date: 2026-09-24 19:14+0200\n"
+"PO-Revision-Date: 2026-09-24 18:00+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: extension.js:62
+msgid "Last 5 hours"
+msgstr "Les 5 dernières heures"
+
+#: extension.js:63
+msgid "This week"
+msgstr "Cette semaine"
+
+#: extension.js:64
+msgid "This month"
+msgstr "Ce mois-ci"
+
+#: extension.js:71
+msgid "1 minute"
+msgstr "1 minute"
+
+#: extension.js:72
+msgid "2 minutes"
+msgstr "2 minutes"
+
+#: extension.js:73
+msgid "5 minutes"
+msgstr "5 minutes"
+
+#: extension.js:74
+msgid "10 minutes"
+msgstr "10 minutes"
+
+#: extension.js:75
+msgid "15 minutes"
+msgstr "15 minutes"
+
+#: extension.js:130
+msgid "OpenCode Go Usage"
+msgstr "Utilisation OpenCode Go"
+
+#: extension.js:152
+msgid "Loading…"
+msgstr "Chargement…"
+
+#: extension.js:156
+msgid "Refresh Now"
+msgstr "Actualiser maintenant"
+
+#: extension.js:163
+msgid "Refresh Interval"
+msgstr "Intervalle d'actualisation"
+
+#: extension.js:173
+msgid "Open OpenCode Console"
+msgstr "Ouvrir la console OpenCode"
+
+#: extension.js:198
+msgid "Resets in"
+msgstr "Réinitialisation dans"
+
+#: extension.js:243
+msgid "Could not read usage"
+msgstr "Impossible de lire l'utilisation"
+
+#: extension.js:257
+#, javascript-format
+msgid "%s: unavailable"
+msgstr "%s : indisponible"
+
+#: extension.js:265
+#, javascript-format
+msgid "%s: %d%% used"
+msgstr "%s : %d %% utilisé"
