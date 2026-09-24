@@ -67,4 +67,4 @@ This directory is not a git repository and has no build tooling, package.json, o
   - On Wayland: log out and back in, or test in a nested session with `dbus-run-session -- gnome-shell --nested --wayland`.
 - Enable/disable/check status with `gnome-extensions enable opencodeusage@duarte.roso`, `gnome-extensions disable opencodeusage@duarte.roso`, `gnome-extensions info opencodeusage@duarte.roso`.
 - View extension logs/errors with `journalctl -f -o cat /usr/bin/gnome-shell` (or `journalctl --user -f` depending on session type) while reproducing the issue.
-- Validate `metadata.json` and packaging with `gnome-extensions pack .` before distributing.
+- Validate `metadata.json` and packaging with `gnome-extensions pack --podir=po --extra-source=icons .` before distributing — omitting `--extra-source=icons` produces a zip missing the panel icon (see the `icons/` entry above).
