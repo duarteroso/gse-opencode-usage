@@ -2,7 +2,7 @@
   "name": "opencode-usage",
   "description": "Track your OpenCode Go subscription usage in real time",
   "uuid": "opencodeusage@duarte.roso",
-  "url": "https://gitea.com/duarte.roso/gse-opencode-usage",
+  "url": "https://github.com/duarteroso/gse-opencode-usage.git",
   "shell-version": [
     "45",
     "46",
